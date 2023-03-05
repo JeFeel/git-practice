@@ -1,0 +1,3 @@
+git log --online --all --graph 했을 때
+
+이전에 남아있는 origin들은 어떻게 지우나요
