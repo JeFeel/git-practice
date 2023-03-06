@@ -1,3 +1,7 @@
 git log --online --all --graph 했을 때
 
 이전에 남아있는 origin들은 어떻게 지우나요
+
+--> 원격에서 origin 브랜치를 지워야 됨
+
+git push origin --delete (   )
